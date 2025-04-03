@@ -1,0 +1,12 @@
+Tkinter module:
+This module gives various options to create a Graphical User Interface (GUI) applications for python.
+After importing tkinter, window should be opened.Every function should be taken into that window.
+Generally there are many functions available.Some of them:
+#Suppose the window taken may be root.
+1.Label:
+	Label(root,text="any text to display")
+2.Button:
+	Button(root,text="    ",padx=10,pady=9,command=function)
+	     padx and pady are given to give length to the button.
+	     command should be given to use any button.
+3.
